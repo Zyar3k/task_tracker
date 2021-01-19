@@ -1,7 +1,9 @@
+import Header from "./components/Header";
+
 function App() {
   return (
     <div className='container'>
-      <h1>start project</h1>
+      <Header title='Taks Tracker' />
     </div>
   );
 }
