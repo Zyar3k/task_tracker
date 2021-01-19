@@ -17,6 +17,12 @@
       "day": "asfasfafa",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Test",
+      "day": "Saturday",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
